@@ -7,7 +7,7 @@ Traditional open-source licenses like MIT, Apache, or GPL are legally hardcoded 
 * Technical documentation and wikis
 * Data schemas, models, and JSON structures
 * Conceptual frameworks and educational materials
-
+* Software, scripts, and raw code
 ---
 
 ## How to Use This License
