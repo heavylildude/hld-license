@@ -15,7 +15,7 @@ Traditional open-source licenses like MIT, Apache, or GPL are legally hardcoded 
 If you want to protect your project using the HLD License 1.0, follow these two simple steps:
 
 1. Copy the full text from the `LICENSE.md` file in this repository.
-2. Paste it into a file named `LICENSE` or `LICENSE.md` at the root of your own project, replacing `[Your Name or Organization Name]` with your information.
+2. Paste it into a file named `LICENSE` or `LICENSE.md` at the root of your own project.
 
 ### Quick Attribution (Optional)
 You can also add this notice to the top of your files or your project's README:
