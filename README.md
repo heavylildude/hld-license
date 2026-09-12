@@ -24,7 +24,7 @@ If you want to protect your project using the HLD License 1.0, follow these two 
    - `https://cdn.jsdelivr.net/gh/heavylildude/hld-license@main/LICENSE.txt`
    
    directly in your file
-2. That's all! The cdn has common attribution of Copyright (c) The respective authors and contributors of the Knowledge.
+2. That's all! The cdn version has common attribution of: `Copyright (c) The respective authors and contributors of the Knowledge.`
 
 ### Quick Attribution (Optional)
 You can also add this notice to the top of your files or your project's README:
