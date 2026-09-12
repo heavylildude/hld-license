@@ -19,9 +19,10 @@ If you want to protect your project using the HLD License 1.0, follow these two 
 2. Paste it into a file named `LICENSE` or `LICENSE.md` or `LICENSE.txt` at the root of your own project.
 
 ### CDN
-1. Use either:
+1. Add either:
    - `https://cdn.jsdelivr.net/gh/heavylildude/hld-license@main/LICENSE.md`
    - `https://cdn.jsdelivr.net/gh/heavylildude/hld-license@main/LICENSE.txt`
+   
    directly in your file
 2. That's all! The cdn has common attribution of Copyright (c) The respective authors and contributors of the Knowledge.
 
