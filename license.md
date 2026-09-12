@@ -1,6 +1,6 @@
 # HLD License 1.0
 
-Copyright (c) 2026 [Your Name or Organization Name]
+Copyright (c) The respective authors and contributors of the Knowledge.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy 
 of this knowledge and associated documentation files (the “Knowledge”), to deal 
